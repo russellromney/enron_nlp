@@ -198,6 +198,9 @@ parsed_enron_words <- function(data, remove_stopwords = TRUE) {
     # stop - boolean - whether to remove stopwords or not; default FALSE
   ### DESCRIPTION ###
   
+  library(tidytext)
+  library(tidyverse)
+  
   # create tidy tibble of words
   data <- data %>%
     unnest_tokens(word, text)
