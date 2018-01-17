@@ -47,7 +47,7 @@ Columns are:
 `parsed_enron_words(data,remove_stopwords=TRUE)`
 
 Function that returns a tidy tibble of words in the enron dataset along with associated metadata for each word. To produce only a tidy tibble of words with stopwords removed, use something like:
-> `parsed_enron_words(parse_enron(data),remove_stopwords=TRUE)`
+    `parsed_enron_words(parse_enron(data),remove_stopwords=TRUE)`
 
 Arguments:
   * required:
