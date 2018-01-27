@@ -1,5 +1,5 @@
 # enron_nlp
-A collection of things helpful to working with the Enron Emails data set from Kaggle made available by William Cukierski. This data can be accessed at https://www.kaggle.com/wcukierski/enron-email-dataset/data.  
+A collection of functions helpful to working with the Enron Emails data set from Kaggle made available by William Cukierski. This data can be accessed at https://www.kaggle.com/wcukierski/enron-email-dataset/data.  
 
 I'll make more changes as time goes on; send me a message if you have questions or if you want to contribute. 
 
